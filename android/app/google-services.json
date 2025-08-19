@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520706337895",
+    "project_id": "contentmanagement-2080b",
+    "storage_bucket": "contentmanagement-2080b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520706337895:android:04ce39da05af733f0f38c2",
+        "android_client_info": {
+          "package_name": "com.example.content_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPw6gKUSOQQRHeMcl7BLPtcIIFqvA4XwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
