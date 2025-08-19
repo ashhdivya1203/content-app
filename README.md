@@ -16,5 +16,5 @@ authentication, real-time Firestore database integration, and a clean user-frien
 ### Tech Stack
 - Flutter (Dart)
 - Firebase Authentication
-- Cloud Firestore
+- Firebase Firestore
 
